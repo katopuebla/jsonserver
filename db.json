@@ -1,7 +1,9 @@
 {
-  "authemail": {
-    "success" : true
-  },
+  "authemail": [
+    { "email" : "katopuebla@email.com", "password" : "1234", "success" : true },
+    { "email" : "prueba@email.com", "password" : "1234", "success" : true },
+    { "email" : "test@email.com", "password" : "1234", "success" : true }
+  }],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
