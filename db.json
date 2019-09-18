@@ -9,7 +9,7 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "posts": [
+  "register": [
     { "id": 1, "email": "katopuebla@gmail.com" }
   ],
   "profile": {
