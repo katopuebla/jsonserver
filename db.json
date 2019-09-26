@@ -4,10 +4,10 @@
     { "id" : "prueba@email.com|1234", "success" : true },
     { "id" : "test@email.com|1234", "success" : true }
   ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "roles": [
+    { "id": "admin", "description": "Administrador", "system": "Nomina" },
+    { "id": "Manager", "description": "Gerente", "system": "Nomina" },
+    { "id": "normal", "description": "Normal", "system": "consulta" }
   ],
   "register": [
     { "id": 1, "email": "katopuebla@gmail.com" }
